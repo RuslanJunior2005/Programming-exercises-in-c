@@ -12,7 +12,8 @@ int main()
 
 	FILE* fArticoli;
 
-
+         //reading files within file resources
+	
 	fArticoli = fopen( "C:\\Users\\Ruslan\\Desktop\\ARTICOLI.csv" , "r" );
 
 	if (!fArticoli)
