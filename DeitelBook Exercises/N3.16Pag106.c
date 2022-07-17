@@ -23,6 +23,7 @@ int main()
     printf("\nvoi continare si o no ? S/N:  ");
     scanf(" %c",&risposta);
 
-    }while (risposta=='S');
+    }
+    while (risposta=='S');
 
 }
