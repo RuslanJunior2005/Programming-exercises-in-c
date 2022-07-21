@@ -36,7 +36,4 @@ int main()
     scanf(" %c",&risposta);
  }
 
-    
-
-
-
+}
