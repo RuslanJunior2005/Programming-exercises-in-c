@@ -1,0 +1,8 @@
+g++ --version
+
+g++ -o main main.c util.c
+
+.\main
+
+fine 
+compilazione dalla riga di commando 
