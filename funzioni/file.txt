@@ -1,0 +1,2 @@
+in questa cartella ci sono tre esercizi che riportano tre tipi di funzioni differenti tra loro.
+Definizione di LIFO ecc.
