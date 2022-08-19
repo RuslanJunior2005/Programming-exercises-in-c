@@ -20,6 +20,5 @@ int main()
     printf("\ncircoferenza del cerchio: %f",C);
     printf("\nArea del cerchio: %f",A);
     printf("\nDiametro del cerchio: %f",d);
-    
-
+    printf("ciao mondo ed con esso tutte le donne del cazzo!");
 }
