@@ -8,7 +8,7 @@ int main() {
     scanf("%d", &n);
 
     for (int i = 1; i <= n; i++) {
-        fattoriale += i;
+        fattoriale *= i;
     }
 
     printf("Il fattoriale di %d è %d", n, fattoriale);
